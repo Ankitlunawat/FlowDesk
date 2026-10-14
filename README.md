@@ -24,4 +24,9 @@ FlowDesk brings a searchable request queue, priorities, ownership and manager ap
 
 [Models](app/core/models.py) · [Workflow rules](app/core/services.py) · [Tests](app/core/tests.py) · [Run locally](SETUP.md)
 
-The screenshots use illustrative service requests and fictional company names. This is a personal project, not a client engagement. This repository page is a source walkthrough, not a live hosted application.
+The screenshots use illustrative service requests and fictional company names. This is a personal project, not a client engagement. The repository provides the full server application. A separate browser preview is available through GitHub Pages; it does not run the authenticated server backend.
+
+
+## Browser preview
+
+The `docs/index.html` preview runs in the browser. Changes are saved in browser-local storage. Manager approvals here demonstrate the workflow and do not enforce server authentication.
