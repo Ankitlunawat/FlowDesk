@@ -1,5 +1,9 @@
 # FlowDesk — Service Request & Approval Portal
 
+## What is this project used for?
+
+FlowDesk is used to manage client and internal service requests from intake to completion. It helps service teams keep scope, priorities, due dates, notes and approval decisions together, so work can be tracked without searching through message threads. Typical uses include agency delivery, support intake and internal operations requests.
+
 ## The problem
 
 Service teams need a reliable way to track requests, deadlines and approval handoffs without losing decisions across messages.
